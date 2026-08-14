@@ -1,0 +1,36 @@
+
+> otakuverse@1.0.0 dev
+> next dev
+
+▲ Next.js 16.3.1 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.56.1:3000
+✓ Ready in 5.2s
+✓ Running next.config.ts took 234ms
+Creating turbopack project {
+  dir: 'C:\\Users\\Panchal Jay\\OneDrive\\Desktop\\ANIME WEB',
+  testMode: true
+}
+
+ GET / 200 in 829ms (next.js: 649ms, application-code: 180ms)
+ GET / 200 in 88ms (next.js: 14ms, application-code: 74ms)
+✓ Compiled in 67ms
+✓ Compiled in 52ms
+ GET / 200 in 96ms (next.js: 33ms, application-code: 63ms)
+ GET / 200 in 217ms (next.js: 129ms, application-code: 88ms)
+ GET / 200 in 96ms (next.js: 11ms, application-code: 86ms)
+ GET / 200 in 91ms (next.js: 16ms, application-code: 75ms)
+ GET / 200 in 101ms (next.js: 14ms, application-code: 87ms)
+ GET / 200 in 100ms (next.js: 13ms, application-code: 87ms)
+ GET / 200 in 48ms (next.js: 15ms, application-code: 33ms)
+ GET /api/anime?resource=trending 502 in 580ms (next.js: 496ms, application-code: 84ms)
+ GET / 200 in 166ms (next.js: 22ms, application-code: 144ms)
+ GET /api/anime?resource=trending 502 in 109ms (next.js: 7ms, application-code: 103ms)
+ GET /api/anime?resource=trending 502 in 20ms (next.js: 5ms, application-code: 14ms)
+ GET / 200 in 113ms (next.js: 29ms, application-code: 84ms)
+ GET /api/anime?resource=trending 502 in 108ms (next.js: 7ms, application-code: 101ms)
+ GET /api/anime?resource=trending 502 in 16ms (next.js: 4ms, application-code: 12ms)
+ GET / 200 in 100ms (next.js: 20ms, application-code: 80ms)
+ GET /api/anime?resource=trending 502 in 187ms (next.js: 5ms, application-code: 181ms)
+ GET /api/anime?resource=trending 502 in 17ms (next.js: 4ms, application-code: 13ms)
+[?25h

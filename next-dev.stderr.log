@@ -1,0 +1,1810 @@
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeHeroBanner.tsx:2:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mAnimeHeroBanner[0m({ anime }: { anime: [33mAnime[0m }) {
+  [90m5 |[0m   [36mconst[0m image = getAnimeImage(anime, [32m"banner"[0m);
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeHeroBanner.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeHeroBanner.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeHeroBanner.tsx:2:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mAnimeHeroBanner[0m({ anime }: { anime: [33mAnime[0m }) {
+  [90m5 |[0m   [36mconst[0m image = getAnimeImage(anime, [32m"banner"[0m);
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeHeroBanner.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeHeroBanner.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeHeroBanner.tsx:2:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mAnimeHeroBanner[0m({ anime }: { anime: [33mAnime[0m }) {
+  [90m5 |[0m   [36mconst[0m image = getAnimeImage(anime, [32m"banner"[0m);
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeHeroBanner.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeHeroBanner.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeHeroBanner.tsx:2:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mAnimeHeroBanner[0m({ anime }: { anime: [33mAnime[0m }) {
+  [90m5 |[0m   [36mconst[0m image = getAnimeImage(anime, [32m"banner"[0m);
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeHeroBanner.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeHeroBanner.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeSidebar.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mexport[0m [36mfunction[0m [33mAnimeSidebar[0m({
+  [90m7 |[0m   animeList,
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeSidebar.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeSidebar.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeSidebar.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mexport[0m [36mfunction[0m [33mAnimeSidebar[0m({
+  [90m7 |[0m   animeList,
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeSidebar.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeSidebar.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeSidebar.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mexport[0m [36mfunction[0m [33mAnimeSidebar[0m({
+  [90m7 |[0m   animeList,
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeSidebar.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeSidebar.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeSidebar.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mexport[0m [36mfunction[0m [33mAnimeSidebar[0m({
+  [90m7 |[0m   animeList,
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeSidebar.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeSidebar.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeHeroBanner.tsx:2:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mAnimeHeroBanner[0m({ anime }: { anime: [33mAnime[0m }) {
+  [90m5 |[0m   [36mconst[0m image = getAnimeImage(anime, [32m"banner"[0m);
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeHeroBanner.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeHeroBanner.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeHeroBanner.tsx:2:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mAnimeHeroBanner[0m({ anime }: { anime: [33mAnime[0m }) {
+  [90m5 |[0m   [36mconst[0m image = getAnimeImage(anime, [32m"banner"[0m);
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeHeroBanner.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeHeroBanner.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeHeroBanner.tsx:2:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mAnimeHeroBanner[0m({ anime }: { anime: [33mAnime[0m }) {
+  [90m5 |[0m   [36mconst[0m image = getAnimeImage(anime, [32m"banner"[0m);
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeHeroBanner.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeHeroBanner.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeHeroBanner.tsx:2:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mAnimeHeroBanner[0m({ anime }: { anime: [33mAnime[0m }) {
+  [90m5 |[0m   [36mconst[0m image = getAnimeImage(anime, [32m"banner"[0m);
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeHeroBanner.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeHeroBanner.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeSidebar.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mexport[0m [36mfunction[0m [33mAnimeSidebar[0m({
+  [90m7 |[0m   animeList,
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeSidebar.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeSidebar.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeSidebar.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mexport[0m [36mfunction[0m [33mAnimeSidebar[0m({
+  [90m7 |[0m   animeList,
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeSidebar.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeSidebar.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeSidebar.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mexport[0m [36mfunction[0m [33mAnimeSidebar[0m({
+  [90m7 |[0m   animeList,
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeSidebar.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeSidebar.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeSidebar.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mexport[0m [36mfunction[0m [33mAnimeSidebar[0m({
+  [90m7 |[0m   animeList,
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeSidebar.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeSidebar.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeHeroBanner.tsx:2:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mAnimeHeroBanner[0m({ anime }: { anime: [33mAnime[0m }) {
+  [90m5 |[0m   [36mconst[0m image = getAnimeImage(anime, [32m"banner"[0m);
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeHeroBanner.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeHeroBanner.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeHeroBanner.tsx:2:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mAnimeHeroBanner[0m({ anime }: { anime: [33mAnime[0m }) {
+  [90m5 |[0m   [36mconst[0m image = getAnimeImage(anime, [32m"banner"[0m);
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeHeroBanner.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeHeroBanner.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeHeroBanner.tsx:2:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mAnimeHeroBanner[0m({ anime }: { anime: [33mAnime[0m }) {
+  [90m5 |[0m   [36mconst[0m image = getAnimeImage(anime, [32m"banner"[0m);
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeHeroBanner.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeHeroBanner.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeHeroBanner.tsx:2:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mAnimeHeroBanner[0m({ anime }: { anime: [33mAnime[0m }) {
+  [90m5 |[0m   [36mconst[0m image = getAnimeImage(anime, [32m"banner"[0m);
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeHeroBanner.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeHeroBanner.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeSidebar.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mexport[0m [36mfunction[0m [33mAnimeSidebar[0m({
+  [90m7 |[0m   animeList,
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeSidebar.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeSidebar.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeSidebar.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mexport[0m [36mfunction[0m [33mAnimeSidebar[0m({
+  [90m7 |[0m   animeList,
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeSidebar.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeSidebar.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeSidebar.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mexport[0m [36mfunction[0m [33mAnimeSidebar[0m({
+  [90m7 |[0m   animeList,
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeSidebar.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeSidebar.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeSidebar.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mexport[0m [36mfunction[0m [33mAnimeSidebar[0m({
+  [90m7 |[0m   animeList,
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeSidebar.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeSidebar.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m, [33mCharacter[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+  [90m6 |[0m [36mimport[0m { [33mAnimeDetailsCard[0m } [36mfrom[0m [32m"@/components/AnimeDetailsCard"[0m;
+  [90m7 |[0m [36mimport[0m { [33mAnimeHeroBanner[0m } [36mfrom[0m [32m"@/components/AnimeHeroBanner"[0m;
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeHeroBanner.tsx:2:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mAnimeHeroBanner[0m({ anime }: { anime: [33mAnime[0m }) {
+  [90m5 |[0m   [36mconst[0m image = getAnimeImage(anime, [32m"banner"[0m);
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeHeroBanner.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeHeroBanner.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeHeroBanner.tsx:2:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mAnimeHeroBanner[0m({ anime }: { anime: [33mAnime[0m }) {
+  [90m5 |[0m   [36mconst[0m image = getAnimeImage(anime, [32m"banner"[0m);
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeHeroBanner.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeHeroBanner.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeHeroBanner.tsx:2:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mAnimeHeroBanner[0m({ anime }: { anime: [33mAnime[0m }) {
+  [90m5 |[0m   [36mconst[0m image = getAnimeImage(anime, [32m"banner"[0m);
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeHeroBanner.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeHeroBanner.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeHeroBanner.tsx:2:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m1 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mfunction[0m [33mAnimeHeroBanner[0m({ anime }: { anime: [33mAnime[0m }) {
+  [90m5 |[0m   [36mconst[0m image = getAnimeImage(anime, [32m"banner"[0m);
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeHeroBanner.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeHeroBanner.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeSidebar.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mexport[0m [36mfunction[0m [33mAnimeSidebar[0m({
+  [90m7 |[0m   animeList,
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeSidebar.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeSidebar.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeSidebar.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mexport[0m [36mfunction[0m [33mAnimeSidebar[0m({
+  [90m7 |[0m   animeList,
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeSidebar.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeSidebar.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeSidebar.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mexport[0m [36mfunction[0m [33mAnimeSidebar[0m({
+  [90m7 |[0m   animeList,
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeSidebar.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeSidebar.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./components/AnimeSidebar.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m [36mtype[0m { [33mAnime[0m } [36mfrom[0m [32m"@/types/anime"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { getAnimeImage } [36mfrom[0m [32m"@/lib/jikan"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mexport[0m [36mfunction[0m [33mAnimeSidebar[0m({
+  [90m7 |[0m   animeList,
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeSidebar.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeSidebar.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[browser] ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  2 |
+  3 | import { useEffect, useState } from "react";
+> 4 | import { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } from "@/lib/jikan";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import type { Anime, Character } from "@/types/anime";
+  6 | import { AnimeDetailsCard } from "@/components/AnimeDetailsCard";
+  7 | import { AnimeHeroBanner } from "@/components/AnimeHeroBanner";
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./components/AnimeHeroBanner.tsx:2:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  1 | import type { Anime } from "@/types/anime";
+> 2 | import { getAnimeImage } from "@/lib/jikan";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function AnimeHeroBanner({ anime }: { anime: Anime }) {
+  5 |   const image = getAnimeImage(anime, "banner");
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeHeroBanner.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeHeroBanner.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./components/AnimeSidebar.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  2 |
+  3 | import type { Anime } from "@/types/anime";
+> 4 | import { getAnimeImage } from "@/lib/jikan";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function AnimeSidebar({
+  7 |   animeList,
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeSidebar.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeSidebar.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./components/AnimeDashboard.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  2 |
+  3 | import { useEffect, useState } from "react";
+> 4 | import { fetchAnimeCharacters, fetchAnimeDetails, fetchTrendingAnime } from "@/lib/jikan";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import type { Anime, Character } from "@/types/anime";
+  6 | import { AnimeDetailsCard } from "@/components/AnimeDetailsCard";
+  7 | import { AnimeHeroBanner } from "@/components/AnimeHeroBanner";
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./components/AnimeDashboard.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./components/AnimeHeroBanner.tsx:2:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  1 | import type { Anime } from "@/types/anime";
+> 2 | import { getAnimeImage } from "@/lib/jikan";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function AnimeHeroBanner({ anime }: { anime: Anime }) {
+  5 |   const image = getAnimeImage(anime, "banner");
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeHeroBanner.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeHeroBanner.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./components/AnimeSidebar.tsx:4:1
+Error: Module not found: Can't resolve '@/lib/jikan'
+  2 |
+  3 | import type { Anime } from "@/types/anime";
+> 4 | import { getAnimeImage } from "@/lib/jikan";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function AnimeSidebar({
+  7 |   animeList,
+
+Import map: aliased to relative './lib/jikan' inside of [project]/
+
+Import traces:
+  Client Component Browser:
+    ./components/AnimeSidebar.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Client Component Browser]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/AnimeSidebar.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Client Component SSR]
+    ./components/AnimeDashboard.tsx [Server Component]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found 
+⨯ ./app/page.tsx:1:1
+Error: Module not found: Can't resolve '@/components/AnimeDashboard'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m { [33mAnimeDashboard[0m } [36mfrom[0m [32m"@/components/AnimeDashboard"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m
+  [90m3 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mPage[0m() {
+  [90m4 |[0m   [36mreturn[0m (
+
+Import map: aliased to relative './components/AnimeDashboard' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/page.tsx:1:1
+Error: Module not found: Can't resolve '@/components/AnimeDashboard'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m { [33mAnimeDashboard[0m } [36mfrom[0m [32m"@/components/AnimeDashboard"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m
+  [90m3 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mPage[0m() {
+  [90m4 |[0m   [36mreturn[0m (
+
+Import map: aliased to relative './components/AnimeDashboard' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/api/anime/route.ts:2:1
+Error: Module not found: Can't resolve '@/lib/jikan-server'
+  [90m1 |[0m [36mimport[0m { [33mNextRequest[0m, [33mNextResponse[0m } [36mfrom[0m [32m"next/server"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { getAnimeCharacters, getAnimeDetails, getTrendingAnime } [36mfrom[0m [32m"@/lib/jikan-server"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36masync[0m [36mfunction[0m [33mGET[0m(request: [33mNextRequest[0m) {
+  [90m5 |[0m   [36mconst[0m resource = request.nextUrl.searchParams.get([32m"resource"[0m);
+
+Import map: aliased to relative './lib/jikan-server' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/api/anime/route.ts:2:1
+Error: Module not found: Can't resolve '@/lib/jikan-server'
+  [90m1 |[0m [36mimport[0m { [33mNextRequest[0m, [33mNextResponse[0m } [36mfrom[0m [32m"next/server"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { getAnimeCharacters, getAnimeDetails, getTrendingAnime } [36mfrom[0m [32m"@/lib/jikan-server"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36masync[0m [36mfunction[0m [33mGET[0m(request: [33mNextRequest[0m) {
+  [90m5 |[0m   [36mconst[0m resource = request.nextUrl.searchParams.get([32m"resource"[0m);
+
+Import map: aliased to relative './lib/jikan-server' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/api/anime/route.ts:2:1
+Error: Module not found: Can't resolve '@/lib/jikan-server'
+  [90m1 |[0m [36mimport[0m { [33mNextRequest[0m, [33mNextResponse[0m } [36mfrom[0m [32m"next/server"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { getAnimeCharacters, getAnimeDetails, getTrendingAnime } [36mfrom[0m [32m"@/lib/jikan-server"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36masync[0m [36mfunction[0m [33mGET[0m(request: [33mNextRequest[0m) {
+  [90m5 |[0m   [36mconst[0m resource = request.nextUrl.searchParams.get([32m"resource"[0m);
+
+Import map: aliased to relative './lib/jikan-server' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/api/anime/route.ts:2:1
+Error: Module not found: Can't resolve '@/lib/jikan-server'
+  [90m1 |[0m [36mimport[0m { [33mNextRequest[0m, [33mNextResponse[0m } [36mfrom[0m [32m"next/server"[0m;
+[31m[1m>[0m [90m2 |[0m [36mimport[0m { getAnimeCharacters, getAnimeDetails, getTrendingAnime } [36mfrom[0m [32m"@/lib/jikan-server"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36masync[0m [36mfunction[0m [33mGET[0m(request: [33mNextRequest[0m) {
+  [90m5 |[0m   [36mconst[0m resource = request.nextUrl.searchParams.get([32m"resource"[0m);
+
+Import map: aliased to relative './lib/jikan-server' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
