@@ -41,10 +41,22 @@
             <p class="mini-title">Anime list</p>
             <h2>Trending now</h2>
           </div>
-          <button class="filter-btn">All</button>
+
+          <div class="search-field">
+            <label class="sr-only" for="searchInput">Search anime</label>
+            <input
+              id="searchInput"
+              type="search"
+              placeholder="Search anime…"
+              autocomplete="off"
+            />
+          </div>
         </div>
 
-        <div id="animeList" class="anime-list" aria-live="polite"></div>
+        <div id="genreChips" class="genre-chips" role="group" aria-label="Filter by genre"></div>
+        <p id="listStatus" class="list-status" aria-live="polite"></p>
+
+        <div id="animeList" class="anime-list"></div>
       </aside>
 
       <section class="details-panel" id="anime-list">

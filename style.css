@@ -26,6 +26,12 @@ html {
   scroll-behavior: smooth;
 }
 
+#home,
+#anime-list,
+#about {
+  scroll-margin-top: 90px;
+}
+
 body {
   font-family: "Inter", sans-serif;
   background:
@@ -151,10 +157,81 @@ button {
 
 .sidebar-header {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 1rem;
-  margin-bottom: 1rem;
+  flex-direction: column;
+  gap: 0.9rem;
+  margin-bottom: 0.9rem;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.search-field input {
+  width: 100%;
+  padding: 0.7rem 0.95rem;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.04);
+  color: var(--text);
+  font: inherit;
+  font-size: 0.9rem;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.search-field input::placeholder {
+  color: var(--muted);
+}
+
+.search-field input:hover {
+  border-color: rgba(124, 92, 255, 0.35);
+}
+
+.search-field input:focus {
+  outline: none;
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px rgba(124, 92, 255, 0.22);
+}
+
+.genre-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 0.7rem;
+}
+
+.genre-chips .filter-btn {
+  padding: 0.4rem 0.75rem;
+  font-size: 0.74rem;
+  font-weight: 600;
+}
+
+.filter-btn.active {
+  background: linear-gradient(135deg, var(--primary), var(--primary-2));
+  border-color: transparent;
+  color: white;
+  box-shadow: 0 8px 18px rgba(124, 92, 255, 0.3);
+}
+
+.list-status {
+  color: var(--muted);
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  margin-bottom: 0.7rem;
+}
+
+.empty-state {
+  color: var(--muted);
+  font-size: 0.9rem;
+  padding: 1.2rem 0.4rem;
+  text-align: center;
 }
 
 .mini-title {
@@ -238,6 +315,46 @@ button {
   display: flex;
   flex-direction: column;
   gap: 1.4rem;
+}
+
+.anime-detail.is-entering {
+  animation: detail-in 0.45s cubic-bezier(0.22, 0.61, 0.36, 1) both;
+}
+
+.anime-detail.is-entering .info-card,
+.anime-detail.is-entering .ratings-card,
+.anime-detail.is-entering .character-card {
+  animation: card-in 0.5s cubic-bezier(0.22, 0.61, 0.36, 1) both;
+}
+
+.anime-detail.is-entering .ratings-card {
+  animation-delay: 0.06s;
+}
+
+.anime-detail.is-entering .character-card {
+  animation-delay: 0.12s;
+}
+
+@keyframes detail-in {
+  from {
+    opacity: 0;
+    transform: translateY(14px) scale(0.994);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes card-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
 }
 
 .poster-banner {
@@ -502,6 +619,109 @@ button {
   gap: 1rem;
   flex-wrap: wrap;
   color: var(--muted);
+}
+
+:is(.anime-item, .nav-links a, .nav-btn, .filter-btn, .search-field input):focus-visible {
+  outline: 3px solid var(--primary-2);
+  outline-offset: 3px;
+  border-radius: 14px;
+}
+
+.nav-links a:focus-visible,
+.nav-btn:focus-visible,
+.filter-btn:focus-visible {
+  border-radius: 999px;
+}
+
+.skeleton {
+  position: relative;
+  overflow: hidden;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.skeleton::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  transform: translateX(-100%);
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255, 255, 255, 0.09),
+    transparent
+  );
+  animation: shimmer 1.4s infinite;
+}
+
+@keyframes shimmer {
+  to {
+    transform: translateX(100%);
+  }
+}
+
+.skeleton-item {
+  cursor: default;
+  pointer-events: none;
+}
+
+.skeleton-item:hover {
+  transform: none;
+  border-color: rgba(255, 255, 255, 0.04);
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.skeleton-thumb {
+  width: 62px;
+  height: 82px;
+  border-radius: 12px;
+  flex-shrink: 0;
+}
+
+.skeleton-avatar {
+  width: 68px;
+  height: 68px;
+  border-radius: 14px;
+  flex-shrink: 0;
+}
+
+.skeleton-line {
+  height: 0.85rem;
+  margin-bottom: 0.5rem;
+  border-radius: 999px;
+}
+
+.skeleton-line.short {
+  width: 55%;
+  margin-bottom: 0;
+}
+
+.skeleton-banner {
+  height: 290px;
+  border-radius: 24px;
+}
+
+.skeleton-block {
+  min-height: 220px;
+  border-radius: 20px;
+}
+
+.skeleton-block.short-block {
+  min-height: 160px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  .anime-detail.is-entering,
+  .anime-detail.is-entering .info-card,
+  .anime-detail.is-entering .ratings-card,
+  .anime-detail.is-entering .character-card,
+  .skeleton::after {
+    animation: none;
+  }
 }
 
 @media (max-width: 980px) {
